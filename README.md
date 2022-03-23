@@ -11,9 +11,7 @@ HW_1
 Математические функции
 SELECT, WHERE, ORDER BY
 LIKE, BETWEEN, IN
-
-
-HW_2
+Решение можно посмотреть [здесь](HW_2https://github.com/alicelav/SQL/blob/main/hm1.sql)
 
 Создание, наполнение таблиц
 
